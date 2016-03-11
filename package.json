@@ -25,9 +25,13 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "axios": "^0.9.1",
     "dialog": "^0.1.8",
     "electron-default-menu": "^0.1.1",
     "menu": "^0.2.5",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-router": "^2.0.1",
     "timbre": "^14.11.25"
   }
 }
